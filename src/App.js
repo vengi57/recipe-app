@@ -35,7 +35,7 @@ const App = () => {
     <div className="App">
       <br />
       <h1 className="title-text">🍗 FooD RecipE 🍖</h1>
-      <h3 className="text-info">This App is made by Vengi 🤓 and inspired from DEV Ed 🖤</h3>
+      <h3 className="text-info">This App is made by Vengi 🤓</h3>
       <form onSubmit={getSearch} className="search-form">
         <input
           className="search-bar"
